@@ -1,0 +1,83 @@
+nayi dilli
+query>>n 5 d4 34
+Total Results :: 20
+Jantar Mantar
+1724-1736
+Mathura, New Delhi, Ujjain, Varanasi, Jaipur
+Maharaja Jai Singh II
+(1) Jantar Mantar of Jaipur largest stone Sun dial. (2) These were astronomical observatories
+https://cdn1.goibibo.com/t_tg_fs/jaipur-jantar-mantar-148133403933-orijgp.jpg
+1.8835967
+-----------------------------------------
+Bara Imambara
+1784
+Lucknow, Uttar Pradesh
+Asaf-ud Daula,
+Grandest buildings including a step, gateways, minar, mosque and bhul bhulaiya.
+http://www.taleof2backpackers.com/wp-content/uploads/2015/11/41.jpg
+1.7121601
+-----------------------------------------
+India Gate
+1921
+Rajpath Marg, New delhi
+Designed by Sir Edwin Lutyens
+(1) Also known as All India War Memorial. (2) Built in memory of Indian soldiers who lost their lives in First World War.
+https://cdn1.goibibo.com/t_tg_fs/new-delhi-india-gate-147623366844-orijgp.jpg
+1.3882713
+-----------------------------------------
+Humayun s Tomb
+1572
+Delhi
+Bigga Begum
+1st garden tomb built in India
+https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/3_19.jpg?itok=W9Td1oQI
+0.98460203
+-----------------------------------------
+Bahai Temple
+1986
+Delhi
+Flint & Neill
+(1) Also known as Lotus Temple. (2) It is a place of worship for every religion & place for meditation.
+https://image3.mouthshut.com/images/imagesp/925747858s.jpg
+0.98460203
+-----------------------------------------
+Qutub Minar
+1193 AD
+Maharauli Delhi
+Qutub-ud -din-Aibak
+(1) World s Largest Brick Minaret. (2) Total height is 73 meters. (3) Total number of stairs is 379
+https://www.tridindia.com/wp-content/uploads/2016/03/facts-about-Qutub-Minar.jpg
+0.7840648
+-----------------------------------------
+Red Fort
+1638 1648
+Old delhi
+Shah Jahan
+(1) Originally known as Qila-e-Mubarak (2) Was actually white as it was made of limestone.
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Redfortdelhi1.jpg/1200px-Redfortdelhi1.jpg
+0.7840648
+-----------------------------------------
+Jama Masjid
+1656 AD
+Central Delhi
+Shah Jahan
+Largest Mosque in India
+https://www.makemytrip.com/travel-guide/media/dg_image/delhi/Jama-Masjid-Delhi.jpg
+0.7840648
+-----------------------------------------
+Yamunotri Temple
+19th century
+Uttarkashi, Uttarakhand
+Maharani Gularia
+(1) Dedicated to Yamuna River (2) Part of Char Dham Yatra (3) Opens up on the day of Akshaya Tritiya & closes the day after Diwali
+https://static2.tripoto.com/media/filter/nl/img/423139/TripDocument/1502384897_228152595yamunotri_temple_main.jpg
+0.6889668
+-----------------------------------------
+Meenakshi Temple
+1623- 1655 CE
+Madurai Tamil Nadu
+Vishwanantha Nayakar
+(1) Dedicated to Goddess Parvati & Lord Shiva. (2) Was on the list of top 30 nominees for New 7 Wonders of the World. (3) Rebuilt in 16th Century by Nayak ruler Vishwanantha Nayakar
+https://www.culturalindia.net/iliimages/Meenakshi-Temple-ili-334-img-5.jpg
+0.66111845
+-----------------------------------------
